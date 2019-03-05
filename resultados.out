@@ -1,0 +1,35 @@
+Estructura del texto
+
+MetodoDeCifrado Su llave CipherText el texto cifrado
+	Cifrado el metodo anterior con affine  llave  cypherText textoCifrado
+
+inp = [
+       '4a7d1ed414474e4033ac29ccb8653d9b',
+       '25bbdcd06c32d477f7fa1c3e4a91b032' ,
+       '0e7e3cf0ded4d9db8b376b317c007f99' ,
+       '7cd86ecb09aa48c6e620b340f6a74592',
+       'bd2f40f24260bc41db48d82d5e7abf1d'
+	  ]
+
+	  
+
+
+vigenereCipher-4a7d1ed414474e4033ac29ccb8653d9b-CipherText-4s7s1xl414474w4033pv29kuq8653w9j
+	Affine-2443-CipherText-5tjtLgy5L55j505OTTAYwrN2lG?bT0rq
+Affine-5215-CipherText-eDWWwjwCQjrew5ddIdIJRjr05J4RWCre
+	Affine-4687-CipherText-TQttrsrLPsSTrROOpOpuUsSqRuMUtLST
+Transposition-33-CipherText-0e7e3cf0ded4d9db8b376b317c007f99
+	Affine-2839-CipherText-yl2lNROy9l959H9oeoN2KoN82Ryy2OHH
+Affine-1651-CipherText-.pAYoZpQIx665YpoZoGIQf5Iyo6.5PxG
+	Affine-3895-CipherText-IsBfzYsVL3??FfszYzZLVwFLvz?IFc3Z
+Transposition-6-CipherText-bfb451d2c8ed244d7f218a46d2b00bdf
+	Affine-1255-CipherText-1 15J.YSFArYS55Yv S.Ah5cYS1mm1Y 
+
+	
+Verificacion que funciona bien	
+	
+2443 5tjtLgy5L55j505OTTAYwrN2lG?bT0rq affineDecrypt 4s7s1xl414474w4033pv29kuq8653w9j Transposition 4a7d1ed414474e4033ac29ccb8653d9b
+4687 TQttrsrLPsSTrROOpOpuUsSqRuMUtLST affineDecrypt eDWWwjwCQjrew5ddIdIJRjr05J4RWCre Affine  25bbdcd06c32d477f7fa1c3e4a91b032
+2839 yl2lNROy9l959H9oeoN2KoN82Ryy2OHH affineDecrypt 0e7e3cf0ded4d9db8b376b317c007f99 Transposition 0e7e3cf0ded4d9db8b376b317c007f99
+3895 IsBfzYsVL3??FfszYzZLVwFLvz?IFc3Z affineDecrypt .pAYoZpQIx665YpoZoGIQf5Iyo6.5PxG Affine  7cd86ecb09aa48c6e620b340f6a74592
+1255 1 15J.YSFArYS55Yv S.Ah5cYS1mm1Y  affineDecrypt bfb451d2c8ed244d7f218a46d2b00bdf Transposition bd2f40f24260bc41db48d82d5e7abf1d

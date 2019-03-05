@@ -1,0 +1,21 @@
+Hagan parajas en el laboratorio
+Usuando un metodo de fuerza bruta Affine Cypher  tienen que descriptar un archivo
+ese archivo tendria una parte de una hash mas grade, donde el conjunto de todas sus partes forman un hash total
+utilizando rainbow y sus tablas se va encontrar otro texto cifrado el cual va ser la llave para abrir un archivo zip( un archivo encriptado , otro zip)
+un archivo encriptado - Como se utiliza john the ripper al descriptarlo 
+cuando pueda hacer eso abren el archivo zip 
+y ese archivo tiene un texto y una imagen
+se tiene que generar un archivo encryptado con  el concepto llave publica 
+
+Generar 
+	Hola vamos donde el mono     - > Cesar: wPq28 2LPX8aPua080q8LPuP      	key = 2311  'wPq28 2LPX8aPua080q8LPuP'		
+	este viernes para comer      - > Vigener 
+	unas ricas empanadas de doce mil  -> Tranposition
+	y pasar un buen rato entre amigos  -> Andres flores
+	e ir despues a  shaki shaki!	 -> grey , 
+	
+	
+	
+
+
+
