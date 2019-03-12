@@ -30,10 +30,15 @@ def main():
                'bd2f40f24260bc41db48d82d5e7abf1d']
     outputFilename = "resultados.out"                                                                           
     outputFileObj = open(outputFilename, 'w')
-    for group in range(5):
+
+    outputFile = "llaves.out"                                                                           
+    outpu= open(outputFile, 'w')
+    for group in range(10):
         outputFileObj.write("Equipo numero {}\n \t".format(group+1))
         numberPerm = list()
-        for numberKey in range(5):                
+        outpu.write("Equipo numero {}\n \t".format(group+1))
+        print("Equipo numero {}\n \t".format(group+1))
+        for numberKey in range(3):                
                 randomInt = random.choice(Primes)
                 NumAndmd5Text = md5(randomInt)
                 num = NumAndmd5Text[0]
@@ -41,28 +46,32 @@ def main():
                         numberPerm.append(randomInt)
                 text = NumAndmd5Text[1]
                 n  = random.randint(1,4)
-                outputFileObj.write(str(num) +":"+ str(text) + "\n \t")
+                outputFileObj.write('\n'+str(num) +":"+ str(text) + "\n \t")
                 key, cadena = "",""
                 if(n==1):
                     key, cadena = affineKeyTest.prueba(text)
-                    translate = "Affine-" + str(key) + "-CipherText-" + str(cadena)+"-"
+                    translate = "AffineClave:" + str(key) + "-CipherText-" + str(cadena)+"-"
                 elif(n==2):
                     key, cadena = caesarCipher.Cipher(text)
-                    translate = "Caesar-" + str(key) + "-CipherText-" + str(cadena)+"-"
+                    translate = "CaesarClave:" + str(key) + "-CipherText-" + str(cadena)+"-"
                 elif(n==3):
                     key = random.randint(1,66)
                     cadena = transpositionEncrypt.encryptMessage(key,text)
-                    translate = "Transposition-" + str(key) + "-CipherText-" + str(cadena)+"-"
+                    translate = "TranspositionClave:" + str(key) + "-CipherText-" + str(cadena)+"-"
                 elif(n==4):
                     key2 = random.randint(1,66)
-                    key = transpositionEncrypt.encryptMessage(key2,text)
-                    print(key)
+                    key = 'SPTI'
                     cadena = vigenereCipher.encryptMessage('SPTI', text)
-                    translate = "vigenereCipher-" + str(key) + "-CipherText-" + str(cadena)+"-"                
+                    translate = "vigenereCipherClave:SPTI-CipherText-" + str(cadena)+"-"
+                tmpKey = key  
                 key, cad = affineKeyTest.prueba(cadena)
                 translate += "\n \t \t Affine-" + str(key) + "-CipherText-" + str(cad)+"-"
                 endChar = "\n \t" if(numberKey != 4) else   "\n"
+                exi = "\t el {} archivo las siguientes : \n \t  para la primera descriptacion la llave es {} y la para el segundo la llave es  {}".format(numberKey+1,key,tmpKey)
+                outpu.write(exi)
+                print(exi)
                 outputFileObj.write(translate+endChar)
+
         numberPermMultiplicacion = list()
         for i in range(3):
                 for j in range(i+1,3):
@@ -79,6 +88,7 @@ def main():
 
                                     
     outputFileObj.close()
+    outpu.close()
     """
     outputFileObj.close()
     fileObj = open(outputFilename)

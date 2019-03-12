@@ -1,105 +1,180 @@
 Equipo numero 1
- 	0003:7cd86ecb09aa48c6e620b340f6a74592
- 	vigenereCipher-75c9d286ecb09aa48c6e620b340f6a74-CipherText-7us86xkt09pt48k6w620q340y6i74592-
- 	 	 Affine-4027-CipherText-pjtkuUToaf9o5kTuZuAa405aPudp5zfA-
- 	0269:1640f59af9fc45f93a72652de254d387
- 	Affine-4687-CipherText-!WMqYRl.YlYJMRYlH.bCWRCOTCRMOHgb-
- 	 	 Affine-463-CipherText-uXTfl3 9l l?T3l y97PX3PhCP3Thyb7-
- 	0461:0ca97c92e9f0ce84d59edef0332f6e48
- 	Caesar-5-CipherText-Ahf.!h.7j.kAhj?9i0.jijkA887k j9?-
- 	 	 Affine-859-CipherText-BiI3ci3d93HBi9p4vC39v9HBqqdHP94p-
- 	0227:eb37b9bd6dbd6f66cd3fe110037e5974
- 	Transposition-13-CipherText-ef7b6e3657c9bd7934bfde61d1b0d063-
- 	 	 Affine-3235-CipherText-TCFEWTHWnF2lEkFlH5ECkTWpkpEUkUWH-
- 	0251:9e6d4dd4c62c53b79e9acb0434870435
- 	vigenereCipher-9e6d4dd4c62c53b79e9acb0434870435-CipherText-9w6s4wl4u62r53u79m9sru0434870435-
- 	 	 Affine-2311-CipherText-4fQXMfqMbQI3vrbz4L4X3bYMrMUzYMrv-
-
- 	 Yowis 3 269 461  numberPermMultiplicacion 807:d23422b17813e5eb024a4f3b4c9d97a5
- 	 	 	 	 	 		 	 	 	 	 	 1383:cd0dce8fca267bf1fb86cf43e18d5598
- 	 	 	 	 	 		 	 	 	 	 	 124009:d5bfd6941eb8cb750116c53226b79744
+ 	
+0241:03747e36da6ae932adf245e835271bec
+ 	TranspositionClave:62-CipherText-03747e36da6ae932adf245e835271bec-
+ 	 	 Affine-1255-CipherText-mlv5vrlcYhchrTlShY S5JrAlJSv.1rF-
+ 	
+0677:fdaee939be4b113b04ab0266195b4eb1
+ 	vigenereCipherClave:SPTI-CipherText-xstmw939qx4j113t04pu0266195j4wq1-
+ 	 	 Affine-3103-CipherText-9XEFNxfx09M DDfEeMOzeyooDx8 MN0D-
+ 	
+0449:9732aa7d24a1bc42b7bd1c2a4ca45732
+ 	TranspositionClave:35-CipherText-9732aa7d24a1bc42b7bd1c2a4ca45732-
+ 	 	 Affine-3103-CipherText-xVfyjjVsyMjDQ!MyQVQsD!yjM!jM8Vfy-
+ 	
+ 	 Yowis 241 677 449  numberPermMultiplicacion 163157:0a7d2154cd50768f0a36344ec2de1035
+ 	 	 	 	 	 		 	 	 	 	 	 108209:911a986d19872bde4658bd2f53665df8
+ 	 	 	 	 	 		 	 	 	 	 	 303973:739cbdccde813d7824adcac048461e92
  	 	 	 	 	 		 	 	 	 	 	 
 Equipo numero 2
- 	0283:d8315808390286c420097a02b18cbb42
- 	Caesar-24-CipherText-2RMKORTRMSTLRP1NLTTSQyTLzKR1zzNL-
- 	 	 Affine-859-CipherText-eYZ.zYyYZlyMY?RmMyylL6yME.YREEmM-
- 	0421:0026e579a258f1fc012951af08496bd7
- 	Caesar-19-CipherText-OOGKxJLNtGJMyFyvOFGNJFtyOMINKuwL-
- 	 	 Affine-3895-CipherText-jjZ!3E5qQZExvgvCjgZqEgQvjxLq!J05-
- 	0283:d8315808390286c420097a02b18cbb42
- 	vigenereCipher-d8315808390286c420097a02b18cbb42-CipherText-v8315808390286r420097t02j18uqu42-
- 	 	 Affine-3499-CipherText-yaZz.aAaZNAma1kMmAANnKAmIza!x!Mm-
- 	0311:e3a958df39563a3bc9cbc53fc79dee52
- 	Caesar-2-CipherText-g5c 70fh5 785c5de ede75he9 fgg74-
- 	 	 Affine-4687-CipherText-dRJvbqYiRvbgRJROTvTOTbRiTlvYddbM-
- 	0421:0026e579a258f1fc012951af08496bd7
- 	Transposition-46-CipherText-0026e579a258f1fc012951af08496bd7-
- 	 	 Affine-1651-CipherText-IIGoZP.x6GPYyvypIvGxPv6yIY5xoQA.-
-
- 	 Yowis 283 421 283  numberPermMultiplicacion 119143:28aa8f174f66bb617809ed026b0971b3
- 	 	 	 	 	 		 	 	 	 	 	 80089:185c2de3f4ad8cfc7bc05dfe5de3e712
- 	 	 	 	 	 		 	 	 	 	 	 119143:28aa8f174f66bb617809ed026b0971b3
+ 	
+0007:6950aac2d7932e1f1a4c3cf6ada1316e
+ 	CaesarClave:13-CipherText-EHDInnpAqFHBAr.s.nCpBpsEnqn.B.Er-
+ 	 	 Affine-4687-CipherText-VkQp??IBNakGBS X ?LIGIXV?N? G VS-
+ 	
+0061:7792dd2aad4d5547e11d9317b03c32c6
+ 	AffineClave:2839-CipherText-22Hk99k!!959hh52l889HN82oyNRNkRK-
+ 	 	 Affine-4819-CipherText-qqy4ZZ4uuZ!Zii!q SSZyaSqRVa3a43F-
+ 	
+0263:87277281b55376d0231ad94f63e4a7eb
+ 	TranspositionClave:10-CipherText-85de739b27476f7d620382e134b1a5a7-
+ 	 	 Affine-331-CipherText-gROTbHlECbMbWYbOWCqHgCT!HME!.R.b-
+ 	
+ 	 Yowis 7 61 263  numberPermMultiplicacion 427:23d38970923b1165915709e05326d2c6
+ 	 	 	 	 	 		 	 	 	 	 	 1841:e8dfff4676a47048d6f0c4ef899593dd
+ 	 	 	 	 	 		 	 	 	 	 	 16043:98c1991adee78a8f7fd9b0cd2e7b3416
  	 	 	 	 	 		 	 	 	 	 	 
 Equipo numero 3
- 	0002:fcd04e26e900e94b9ed6dd604fed2b64
- 	Affine-2443-CipherText-avSO54w?4rOO4r5Kr4S?SS?O5a4SwK?5-
- 	 	 Affine-3499-CipherText-8yfR.MlbMkRRMk.DkMfbffbR.8MflDb.-
- 	0631:b9275809d79e03abf22506793616cdbd
- 	vigenereCipher-b250d90af20731cb97897e3b256966dd-CipherText-t9275809s79x03itu22506793616vlts-
- 	 	 Affine-2047-CipherText-KN9RVwsNtRNCsZ.Kp99Vs1RNZ1d1GaKt-
- 	0199:96a0b02d02f54f8e48dad3d9b69a2016
- 	Transposition-19-CipherText-9a6da30db90b26d90a22f05146f8e48d-
- 	 	 Affine-2839-CipherText-H!K9!Ny9oHyokK9Hy!kkOyh85KOel5e9-
- 	0859:7d46be0099dfea18282bd8a6aa316062
- 	Transposition-64-CipherText-7d46be0099dfea18282bd8a6aa316062-
- 	 	 Affine-3235-CipherText-Fk5WETUUllkCTVp3Y3YEk3VWVVHpWUWY-
- 	0041:c9df945f744f1f5927f66cf11a8a990f
- 	Affine-4423-CipherText-d0eg056g855g2g6038g77dg22b9b00 g-
- 	 	 Affine-1651-CipherText-AIZJIPoJYPPJGJoIfYJ..AJGGQxQIIhJ-
-
- 	 Yowis 2 631 199  numberPermMultiplicacion 1262:dc4c44f624d600aa568390f1f1104aa0
- 	 	 	 	 	 		 	 	 	 	 	 398:2f102bea4636f0e88dc41290011e073c
- 	 	 	 	 	 		 	 	 	 	 	 125569:aaf855181221fda509acdfc271f1ab0d
+ 	
+0691:7fb06d9c9fad617817da09c46a2eb1cc
+ 	AffineClave:4423-CipherText-8gc 7e0d0gbe728928eb 0d57b3fc2dd-
+ 	 	 Affine-2707-CipherText-s8bjDr9C981rD sT sr1j9C2D1lSb CC-
+ 	
+0011:ae2bac2e4b4da805d01b2952d7e35ba4
+ 	CaesarClave:26-CipherText-15N213N5P2P41TVQ4VM2NUQN4S5OQ21P-
+ 	 	 Affine-331-CipherText-!RAC!HARKCKM!eoPMo0CAjPAMZRFPC!K-
+ 	
+0677:fdaee939be4b113b04ab0266195b4eb1
+ 	vigenereCipherClave:SPTI-CipherText-xstmw939qx4j113t04pu0266195j4wq1-
+ 	 	 Affine-463-CipherText-Ot1DHZxZfO5wjjx1g5Y8gqEEjZ!w5Hfj-
+ 	
+ 	 Yowis 691 11 677  numberPermMultiplicacion 7601:43207fd5e34f87c48d584fc5c11befb8
+ 	 	 	 	 	 		 	 	 	 	 	 467807:2ea1365541a8988a8e4a3257cc4d79d4
+ 	 	 	 	 	 		 	 	 	 	 	 7447:9e6adb1432c4a75a33d48693328e4159
  	 	 	 	 	 		 	 	 	 	 	 
 Equipo numero 4
- 	0011:ae2bac2e4b4da805d01b2952d7e35ba4
- 	vigenereCipher-ae2bac2e4b4da805d01b2952d7e35ba4-CipherText-st2uiu2t4u4ls805s01u2952l7w35qt4-
- 	 	 Affine-4423-CipherText-tu3vjv3u5v5mt9 6t 2v3063m8x46ru5-
- 	0149:40948ab6d7a2ad56058b072f272dc887
- 	vigenereCipher-4220af9d2457862a0db5c688db8707a7-CipherText-40948sq6w7i2ss56058u072n272vr887-
- 	 	 Affine-3895-CipherText-MkrMyXl?06baXXF?kFyJk6a7a6aCeyy6-
- 	0467:36f24a4bfc8f2899de3ec6ece77e8523
- 	Transposition-26-CipherText-376ef82542a34bfc8f2899de3ec6ece7-
- 	 	 Affine-4027-CipherText-0puxskAz5AD05?s8ksAkff3x0x8ux8xp-
- 	0029:0e0b24fc303d2b384be5a2464654a5d2
- 	Transposition-13-CipherText-0b5e3408ab452bd4e2f5ca320436d426-
- 	 	 Affine-4291-CipherText-GoLlNMGIpoMLOomMlOkLnpNOGMNKmMOK-
- 	0059:47f91082e4cc7d6d0fcf49d5aa6f3711
- 	Transposition-6-CipherText-487ca172dfa1fe64694d9f1c0d30cf57-
- 	 	 Affine-4819-CipherText-5SL.zjLqGUzjUNE5EZ5GZUj.gGxg.U!L-
-
- 	 Yowis 11 149 467  numberPermMultiplicacion 1639:3c1e4bd67169b8153e0047536c9f541e
- 	 	 	 	 	 		 	 	 	 	 	 5137:d903e9608cfbf08910611e4346a0ba44
- 	 	 	 	 	 		 	 	 	 	 	 69583:6d5d6a98990e389447c27ac474134832
+ 	
+0317:aa763880535bec1ffba4663cded7cc71
+ 	TranspositionClave:41-CipherText-aa763880535bec1ffba4663cded7cc71-
+ 	 	 Affine-2047-CipherText-PPR1ZwwsVZVuHLdmmuP511ZLqHqRLLRd-
+ 	
+0101:814f06ab7f40b2cff77f2c7bdffd3415
+ 	TranspositionClave:10-CipherText-842110c54b7f2b0cd6ffaffb7d773ff4-
+ 	 	 Affine-4027-CipherText-k5AFFa8z5?psA?a83ussDss?p3pp0ss5-
+ 	
+0547:9cb6eff3e44de93c316a21858ac4845a
+ 	vigenereCipherClave:SPTI-CipherText-9uq6xnx3t44wm93u316p21858tk4845s-
+ 	 	 Affine-3103-CipherText-xz0o919fEMMNFxfzfDoOyDC8CErMCM8X-
+ 	
+ 	 Yowis 317 101 547  numberPermMultiplicacion 32017:45d95af3e246cc5a1514a05b6c5a172a
+ 	 	 	 	 	 		 	 	 	 	 	 173399:1ea8d8a504af7dcfd781f96b99e3987c
+ 	 	 	 	 	 		 	 	 	 	 	 55247:d72ff2951f2f8545a4bef1cd3e04b0ec
  	 	 	 	 	 		 	 	 	 	 	 
 Equipo numero 5
- 	0769:7ee16a4ad44a42fde00369321959a78d
- 	vigenereCipher-7ee16a4ad44a42fde00369321959a78d-CipherText-7wt16t4iv44p42ylw00369321959p78w-
- 	 	 Affine-1255-CipherText-v4?.c?52k5535Sbs4mmlcTlS.TJT3vA4-
- 	0877:e707124b7acf5a2856b17899afa99bb6
- 	vigenereCipher-e707124b7acf5a2856b17899afa99bb6-CipherText-w707124q7tkx5p2856u17899ixp99uj6-
- 	 	 Affine-1519-CipherText-xPSPJgMrPulGjUgmj7DJPm006GU00DO7-
- 	0769:7ee16a4ad44a42fde00369321959a78d
- 	Transposition-29-CipherText-77e8ed16a4ad44a42fde00369321959a-
- 	 	 Affine-2707-CipherText-DDrsrCVcLMLCMMLM SCr99lcTl VT2TL-
- 	0617:3170018c26354727e9cc9f4677cf78b6
- 	vigenereCipher-3170018c26354727e9cc9f4677cf78b6-CipherText-3170018u26354727t9vk9x4677ry78j6-
- 	 	 Affine-2443-CipherText-TLjOOLG2w?Tb5jwjQrYNrg5?jjIDjGq?-
- 	0739:65471a23338bed5a76082980722fefe6
- 	Transposition-4-CipherText-613e727e5a3d692f4285082e73ba80f6-
- 	 	 Affine-1519-CipherText-7J4fPgPfjF4I70g3MgmjSmgfP4cFmS37-
-
- 	 Yowis 769 877 769  numberPermMultiplicacion 674413:c100853f9255f193232cc8c5d2178423
- 	 	 	 	 	 		 	 	 	 	 	 591361:12d526eb8f1ad1ec2dac2b74e9a30683
- 	 	 	 	 	 		 	 	 	 	 	 674413:c100853f9255f193232cc8c5d2178423
+ 	
+0617:3170018c26354727e9cc9f4677cf78b6
+ 	TranspositionClave:27-CipherText-3f17780b0618c26354727e9cc9f4677c-
+ 	 	 Affine-859-CipherText-rIRddqCWCQRqjeQrD5ded04jj4I5Qddj-
+ 	
+0059:47f91082e4cc7d6d0fcf49d5aa6f3711
+ 	CaesarClave:20-CipherText-JMzOGPNHyJwwMxLxPzwzJOxKuuLzIMGG-
+ 	 	 Affine-1651-CipherText-clWVTu s!cNNlmMmuWNWcVm2ddMWDlTT-
+ 	
+0223:e7c1d363fdf4c85ee426f767361eabf9
+ 	CaesarClave:11-CipherText-pDn!o.C.qoqAnEBppA?CqDCD.C!plmqF-
+ 	 	 Affine-1123-CipherText-m1EQVyjy4V4BEDSmmBhj41j1yjQmk24U-
+ 	
+ 	 Yowis 617 59 223  numberPermMultiplicacion 36403:e6e4223421e4e4021aa3d7fa7925cebf
+ 	 	 	 	 	 		 	 	 	 	 	 137591:2702de3fc0d5b9220ff794f6a42be9f3
+ 	 	 	 	 	 		 	 	 	 	 	 13157:966b795bc7f3ccb35e3da08aebe98f18
+ 	 	 	 	 	 		 	 	 	 	 	 
+Equipo numero 6
+ 	
+0419:f71ec0487b35da010ea9b14aefe130b2
+ 	TranspositionClave:64-CipherText-f71ec0487b35da010ea9b14aefe130b2-
+ 	 	 Affine-859-CipherText-IdR0jC5qdWrDwJCRC0J4WR5J0I0RrCWe-
+ 	
+0307:cc1d60fc967b66b66229205d7bb288e8
+ 	vigenereCipherClave:SPTI-CipherText-ur1w60nu967q66u66229205l7tq288x8-
+ 	 	 Affine-1123-CipherText-6GbZuwE6fu!4uu6uussfswdk!o4sOOqO-
+ 	
+0733:ef3d97a05e5240610d3da800c172f519
+ 	TranspositionClave:62-CipherText-ef3d97a05e5240610d3da800c172f519-
+ 	 	 Affine-331-CipherText-TYHOlb.qRTRCMqW!qOHO.gqqJ!bCYR!l-
+ 	
+ 	 Yowis 419 307 733  numberPermMultiplicacion 128633:befeca3b37743f4824dad0c8bf97a61a
+ 	 	 	 	 	 		 	 	 	 	 	 307127:6f3c4102730e9985d61f52439690324a
+ 	 	 	 	 	 		 	 	 	 	 	 225031:6998f4805956992372429c3c5d33b420
+ 	 	 	 	 	 		 	 	 	 	 	 
+Equipo numero 7
+ 	
+0937:72642bf3618ddefdbe6ca8af5c3d600b
+ 	AffineClave:3235-CipherText-FYW5YECHWp3kkTCkETW2V3VCn2HkWUUE-
+ 	 	 Affine-1519-CipherText-yZtjZbvetU4llqvlbqtgW4Wvogelt..b-
+ 	
+0311:e3a958df39563a3bc9cbc53fc79dee52
+ 	CaesarClave:1-CipherText-f4b069eg40674b4cd0dcd64gd80eff63-
+ 	 	 Affine-1123-CipherText-AM?wufxRMwu!M?MPgwgPguMRgOwxAAu0-
+ 	
+0521:077586386987c403f951a187e2a8ff2e
+ 	TranspositionClave:5-CipherText-0683a22737f1ae78c98856457f8901ef-
+ 	 	 Affine-4687-CipherText-qWgH.CCbHbY!.TbgJlggRWMRbYglq!TY-
+ 	
+ 	 Yowis 937 311 521  numberPermMultiplicacion 291407:21cbe8e6eec27e66783677ce720f96e2
+ 	 	 	 	 	 		 	 	 	 	 	 488177:f3192dafbb5d686a6936bf82962c571d
+ 	 	 	 	 	 		 	 	 	 	 	 162031:a0b61960f8b55affeea27c4fbb59300e
+ 	 	 	 	 	 		 	 	 	 	 	 
+Equipo numero 8
+ 	
+0419:f71ec0487b35da010ea9b14aefe130b2
+ 	CaesarClave:6-CipherText-l?7kiB0.?h9 jgB7BkgAh70gklk79Bh8-
+ 	 	 Affine-3235-CipherText-gjFxRyUSjilDAzyFyxzBiFUzxgxFlyi3-
+ 	
+0389:cd1920144268076525c18a2e11401519
+ 	CaesarClave:26-CipherText-34MUNVMPPNRTVSRQNQ3MT1N5MMPVMQMU-
+ 	 	 Affine-2443-CipherText-T5xPU1xccUks1Hk.U.TxsLUbxxc1x.xP-
+ 	
+0941:0795295e84901fdfa874551cb664c005
+ 	AffineClave:2311-CipherText-Yz4vI4v0UM4Yneae2UzMvvn6WQQM6YYv-
+ 	 	 Affine-1519-CipherText-Z1Ma2MaS.NMZofFfg.1Naao7tnnN7ZZa-
+ 	
+ 	 Yowis 419 389 941  numberPermMultiplicacion 162991:b7a9a2ad85f43de500e33aadc76a6cb3
+ 	 	 	 	 	 		 	 	 	 	 	 394279:cdf181906e37ac634d0a54eccfb36bfe
+ 	 	 	 	 	 		 	 	 	 	 	 366049:f54596a48c99c22a2e74f7ca9b3a6ac6
+ 	 	 	 	 	 		 	 	 	 	 	 
+Equipo numero 9
+ 	
+0002:fcd04e26e900e94b9ed6dd604fed2b64
+ 	AffineClave:1123-CipherText-APgwMxsuxfwwxfM?fxgugguwMAxgs?uM-
+ 	 	 Affine-331-CipherText-BKdr0wXhwYrrwY06Ywdhddhr0BwdX6h0-
+ 	
+0881:8c292c9d5251f96a3de7d225650bf7ea
+ 	TranspositionClave:37-CipherText-8c292c9d5251f96a3de7d225650bf7ea-
+ 	 	 Affine-3235-CipherText-32YlY2lknYnpClWVHkTFkYYnWnUECFTV-
+ 	
+0113:d64afcd10ad5d5c200d22a4464f8086f
+ 	TranspositionClave:9-CipherText-dad86d204528ada6f54fcc4d2610400f-
+ 	 	 Affine-2707-CipherText-CLCscC 9M2 sLCLcS2MSbbMC cV9M99S-
+ 	
+ 	 Yowis 2 881 113  numberPermMultiplicacion 1762:17ed8abedc255908be746d245e50263a
+ 	 	 	 	 	 		 	 	 	 	 	 226:66e78b22162c1774129ea149e0171b52
+ 	 	 	 	 	 		 	 	 	 	 	 99553:5a7afa22e23fd0a97a9ace0c1d5f8928
+ 	 	 	 	 	 		 	 	 	 	 	 
+Equipo numero 10
+ 	
+0167:ddd8b970c97a77fa74c14951f486f62b
+ 	vigenereCipherClave:SPTI-CipherText-vsw8j970u97p77yi74u14951u486y62j-
+ 	 	 Affine-1123-CipherText-IXZOCf!w6f!m!!8z!M6bMfdb6MOu8usC-
+ 	
+0823:b7aa68fca7cb9d8801b6f092244b88a0
+ 	vigenereCipherClave:SPTI-CipherText-t7pt68nup7vj9v8801q6y092244j88s0-
+ 	 	 Affine-2707-CipherText-?Dg?csQngDOyTOss9VHcF9T  MMyssX9-
+ 	
+0337:fadb8fa7727ae2b783b1302e3374c58e
+ 	CaesarClave:1-CipherText-gbec9gb8838bf3c894c24 3f4485d69f-
+ 	 	 Affine-4291-CipherText-jolnHjoIINIokNnIHMnOMFNkMMILmKHk-
+ 	
+ 	 Yowis 167 823 337  numberPermMultiplicacion 137441:6cd8289ca251a7db8841a6ca6459de7c
+ 	 	 	 	 	 		 	 	 	 	 	 56279:781ca2f25a6943221d58b2d748aa684f
+ 	 	 	 	 	 		 	 	 	 	 	 277351:f1c00a19c4952986f25e345b123ac71c
  	 	 	 	 	 		 	 	 	 	 	 
