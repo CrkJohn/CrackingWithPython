@@ -45,7 +45,7 @@ def main():
                 if(numberKey<=2):
                         numberPerm.append(randomInt)
                 text = NumAndmd5Text[1]
-                n  = random.randint(1,4)
+                n  = random.randint(1,3)
                 outputFileObj.write('\n'+str(num) +":"+ str(text) + "\n \t")
                 key, cadena = "",""
                 if(n==1):
@@ -75,13 +75,13 @@ def main():
         numberPermMultiplicacion = list()
         for i in range(3):
                 for j in range(i+1,3):
-                        numberPermMultiplicacion.append(numberPerm[i]*numberPerm[j])                        
+                        numberPermMultiplicacion.append((numberPerm[i],numberPerm[j],numberPerm[i]*numberPerm[j]))                  
         outputFileObj.write("\n \t Yowis ")
         for npm in numberPerm:
                 outputFileObj.write(str(npm)+" ")
         outputFileObj.write(" numberPermMultiplicacion ")
-        for npm in numberPermMultiplicacion:
-                outputFileObj.write(str(npm)+":"+str(md5(npm)[1])+"\n \t \t \t \t \t \t\t \t \t \t \t \t ")
+        for n,p,m in numberPermMultiplicacion:
+                outputFileObj.write(str(n)+"*"+str(p)+"="+str(m)+":"+str(md5(m)[1])+"\n \t \t \t \t \t \t\t \t \t \t \t \t ")
 
         outputFileObj.write("\n")
         
